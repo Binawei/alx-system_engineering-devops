@@ -6,3 +6,4 @@ list contents in long format
 list contents including user IDs
 creates a  first directory
 moving files
+removing files
