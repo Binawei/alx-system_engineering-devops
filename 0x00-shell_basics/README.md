@@ -3,3 +3,4 @@ displays the ontent list
 changes the working directory to home
 list contents
 list contents in long format
+list contents including user IDs
