@@ -9,3 +9,4 @@ moving files
 removing file
 deleting directory
 changing to previous directory
+list all files includingnfiles in boot directory
