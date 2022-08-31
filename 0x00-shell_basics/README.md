@@ -8,3 +8,4 @@ creates a  first directory
 moving files
 removing file
 deleting directory
+changing to previous directory
