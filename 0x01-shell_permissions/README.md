@@ -9,4 +9,4 @@ group can execute
 everybody can execute
 to change mode
 to set mode as another file
-change
+subdirectories can execute
