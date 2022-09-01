@@ -13,3 +13,4 @@ subdirectories can execute
 create a new directory
 changes the group to school
 cchange ownership and group owner
+symbolic changes
