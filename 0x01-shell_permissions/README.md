@@ -14,3 +14,4 @@ create a new directory
 changes the group to school
 cchange ownership and group owner
 symbolic changes
+if only changing file owners
