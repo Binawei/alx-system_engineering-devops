@@ -11,3 +11,4 @@ to change mode
 to set mode as another file
 subdirectories can execute
 create a new directory
+changes the group to school
