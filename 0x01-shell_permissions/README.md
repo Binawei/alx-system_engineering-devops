@@ -12,3 +12,4 @@ to set mode as another file
 subdirectories can execute
 create a new directory
 changes the group to school
+cchange ownership and group owner
