@@ -6,3 +6,4 @@ change ownership to betty
 an empty file
 owners can execute
 group can execute
+everybody can execute
