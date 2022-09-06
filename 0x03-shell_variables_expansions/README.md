@@ -13,3 +13,4 @@ power
 conversion to binar
 brace expansiony
 brace expansion
+decimal places
