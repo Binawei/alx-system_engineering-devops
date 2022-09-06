@@ -12,4 +12,5 @@ delete files
 counting files
 creates 10 new files
 unique
-roots 
+roots
+word count bin 
