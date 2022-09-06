@@ -17,4 +17,5 @@ word count bin
 displayiny pattern containg root
 do not contain the pattern bin
 alphabet only
-replacing alphabet 
+replacing alphabet
+removes letters 
