@@ -9,3 +9,4 @@ creates a new local variables
 creates global variables
 addition
 addition of variables
+power
