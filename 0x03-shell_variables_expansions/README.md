@@ -12,3 +12,4 @@ addition of variables
 power
 conversion to binar
 brace expansiony
+brace expansion
