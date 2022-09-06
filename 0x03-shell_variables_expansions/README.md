@@ -5,3 +5,4 @@ path
 count directories in the PATH
 print enviromental variables
 prints local variables
+creates a new local variables
