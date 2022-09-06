@@ -10,4 +10,5 @@ creating the file in best school
 deplicate last line
 delete files
 counting files
-creates 10 new files 
+creates 10 new files
+unique 
