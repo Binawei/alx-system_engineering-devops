@@ -18,4 +18,5 @@ displayiny pattern containg root
 do not contain the pattern bin
 alphabet only
 replacing alphabet
-removes letters 
+removes letters
+reverse input 
