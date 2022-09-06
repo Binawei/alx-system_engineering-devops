@@ -3,3 +3,4 @@ aliase of list
 hello user
 path
 count directories in the PATH
+print enviromental variables
