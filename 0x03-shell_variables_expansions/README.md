@@ -10,4 +10,5 @@ creates global variables
 addition
 addition of variables
 power
-conversion to binary
+conversion to binar
+brace expansiony
