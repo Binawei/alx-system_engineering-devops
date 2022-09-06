@@ -16,4 +16,5 @@ roots
 word count bin
 displayiny pattern containg root
 do not contain the pattern bin
-alphabet only 
+alphabet only
+replacing alphabet 
