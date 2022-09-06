@@ -19,4 +19,5 @@ do not contain the pattern bin
 alphabet only
 replacing alphabet
 removes letters
-reverse input 
+reverse input
+sort 
