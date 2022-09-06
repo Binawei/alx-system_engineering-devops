@@ -20,4 +20,5 @@ alphabet only
 replacing alphabet
 removes letters
 reverse input
-sort 
+sort
+find empty files and directories 
