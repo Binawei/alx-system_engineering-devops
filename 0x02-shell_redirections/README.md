@@ -14,4 +14,5 @@ creates 10 new files
 unique
 roots
 word count bin
-displayiny pattern containg root 
+displayiny pattern containg root
+do not contain the pattern bin 
