@@ -13,4 +13,5 @@ counting files
 creates 10 new files
 unique
 roots
-word count bin 
+word count bin
+displayiny pattern containg root 
