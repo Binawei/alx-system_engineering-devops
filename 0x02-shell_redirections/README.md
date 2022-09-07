@@ -23,4 +23,5 @@ reverse input
 sort
 find empty files and directories
 save file.
-acrostic 
+acrostic
+gif 
