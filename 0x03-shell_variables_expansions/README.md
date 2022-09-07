@@ -16,4 +16,5 @@ brace expansion
 decimal places
 conversion to base 10
 prints
-store 
+store
+proponent 
