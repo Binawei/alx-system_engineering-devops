@@ -14,3 +14,4 @@ conversion to binar
 brace expansiony
 brace expansion
 decimal places
+conversion to base 10
