@@ -22,4 +22,4 @@ removes letters
 reverse input
 sort
 find empty files and directories
-save file 
+save file. 
