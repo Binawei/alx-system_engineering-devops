@@ -1,0 +1,16 @@
+#!/usr/bin/env bash
+#This script displays 'Best school' bt displays hi on the 9th iteration
+iteration=0
+while [ $iteration -lt 10 ]
+do
+    if [[ $iteration -eq 3 ]]
+    then
+    echo "bad luck"
+elif [[ $iteration -eq 7 ]]
+then
+	echo "good luck"
+else
+	echo "Best School"
+    fi
+    iteration=$((iteration + 1))
+done
