@@ -1,0 +1,13 @@
+#!/usr/bin/env bash
+
+# loop through all existing processes
+for i in /proc/* ; do
+   # extract the name of the process from the cmdline file
+   name=$(cat $i/cmdline 2>/dev/null | tr -d '\0')
+   # check if the name contains the word bash
+   if [[ $name == *"bash"* ]] ; then
+       # if it does, get its PID (from the directory name) and print it along with the name
+       pid=`echo $i | cut -d '/' -f3`
+       echo "$pid: $name"
+   fi
+done

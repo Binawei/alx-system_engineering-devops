@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+#kills the 7-highlander process
+
+#find the process id (PID) of 7-highlander
+pid=$(ps aux | grep '7-highlander' | awk '{print $2}')
+
+#checks if the process is running
+if [[ -n $pid ]];
+then
+	kill -9 $pid
+fi
+

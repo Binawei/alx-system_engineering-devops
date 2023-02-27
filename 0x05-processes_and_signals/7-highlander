@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+#Handles signal when receives a signal
+
+#Defines a signal handler for SIGTERM
+function sigterm_handler {
+	echo "I am invicible!!!"
+	exit 0
+}
+#sets the sigal handler for SIGTERM
+trap sigterm_handler SIGTERM
+
+#infinite loop
+while true;
+do
+	echo "To infinity and beyond"
+	sleep 2
+done
+

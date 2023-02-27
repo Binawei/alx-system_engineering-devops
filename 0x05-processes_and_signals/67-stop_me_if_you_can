@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+#Stops 4-to_infinity_and_beyond process
+#get all running processes
+
+#Gets the PID of 7-highlander
+pid=$(ps -ef | grep "7-highlander" | grep -v grep | awk '{print $2}')
+#checks if it is running
+if [ -n "$pid" ]; then
+	#terminate it
+	kill -TERM "$pid"
+fi

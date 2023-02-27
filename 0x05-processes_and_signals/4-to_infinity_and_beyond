@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+#Showes infinity and beyond infinitely
+num=0
+while [[ num -lt 9 ]]
+do
+	echo "To infinity and beyond"
+	sleep 2
+	#num=$(( num+1 ))
+done
